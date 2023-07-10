@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marie.darboiss@gmail.com
+	name = Marie Darbois
